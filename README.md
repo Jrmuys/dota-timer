@@ -1,5 +1,7 @@
 # DotaTimer
 
+This project's goals is to provde a reliable timer for in game events in Dota 2. It utalizes global hotkeys to listen for user triggered events as well as the Dota 2 game state integration server to get the in-game time.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
 ## Development server
